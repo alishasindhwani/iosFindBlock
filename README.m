@@ -1,0 +1,1 @@
+This is the source code for the iOS project, it was built directly on top of the Google provided "TreasureHunt" demo app. My changes are mostly found in TreasureHuntRenderer.m where I added the functionality of multiple cubes and the find target cube in the midddle of decoy cubes.
